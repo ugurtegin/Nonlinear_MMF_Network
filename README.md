@@ -1,3 +1,7 @@
 # Scalable Optical Learning Operator 
 
-Here we present and experimentally demonstrate an optical computing framework based on spatiotemporal effects in multimode fibers for a range of learning tasks from classifying COVID-19 X-ray lung images and speech recognition to predicting age from face images. 
+This repository contains code used for the manuscript title as Scalable Optical Learning Operator by U. Tegin et al. (2020).
+
+Simulations folder contains a time-dependent beam propagation simulation for graded-index multimode fiber. The code is written in Python with the CuPy library to perform GPU parallelized simulations. 
+
+Exp_LinReg folder contains the numerical decision layer used in the manuscript. Regression and categorization tasks for the studied datasets in the manuscript are performed with these codes written in Python with Tensorflow library and Keras API.
