@@ -6,9 +6,6 @@ Simulations folder contains a time-dependent beam propagation simulation for gra
 
 Exp_LinReg folder contains the numerical decision layer used in the manuscript. Regression and categorization tasks for the studied datasets in the manuscript are performed with these codes written in Python with Tensorflow library and Keras API.
 
-
-Uğur Teğin, Mustafa Yıldırım, İlker Oğuz, Christophe Moser, & Demetri Psaltis. (2020). Scalable Optical Learning Operator. 
-
 ## Related Work
 [Scalable Optical Learning Operator](https://arxiv.org/abs/2012.12404)
 
