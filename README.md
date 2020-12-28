@@ -12,6 +12,8 @@ Uğur Teğin, Mustafa Yıldırım, İlker Oğuz, Christophe Moser, & Demetri Psa
 ## Related Work
 [Scalable Optical Learning Operator](https://arxiv.org/abs/2012.12404)
 
+Uğur Teğin, Mustafa Yıldırım, İlker Oğuz, Christophe Moser, and Demetri Psaltis 2020. Scalable Optical Learning Operator. arXiv.
+
 ```
 @article{teğin2020scalable,
       title={Scalable Optical Learning Operator}, 
