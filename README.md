@@ -26,8 +26,11 @@ Uğur Teğin, Mustafa Yıldırım, İlker Oğuz, Christophe Moser, and Demetri P
 
 ## System Requirements
 Google Colab services
+
 CuPy based on Cuda 11.0
+
 Tensorflow 2.4.0
+
 Python 3
 
 ## Contact
