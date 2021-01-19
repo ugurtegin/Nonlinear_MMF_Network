@@ -22,5 +22,14 @@ Uğur Teğin, Mustafa Yıldırım, İlker Oğuz, Christophe Moser, and Demetri P
 }
 ```
 
+## System Requirements
+Google Colab services
+CuPy based on Cuda 11.0
+Tensorflow 2.4.0
+Python 3
+
 ## Contact
 Please contact [Uğur Teğin](http://ugurtegin.github.io) for questions.
+
+## License
+This project is covered under the Creative Common (CC BY NC) License.
