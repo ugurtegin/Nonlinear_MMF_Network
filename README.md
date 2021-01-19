@@ -4,7 +4,9 @@ This repository contains code used for the manuscript title as Scalable Optical 
 
 Simulations folder contains a time-dependent beam propagation simulation for graded-index multimode fiber. The code is written in Python with the CuPy library to perform GPU parallelized simulations. 
 
-Exp_LinReg folder contains the numerical decision layer used in the manuscript. Regression and categorization tasks for the studied datasets in the manuscript are performed with these codes written in Python with Tensorflow library and Keras API.
+Exp_LinReg folder contains the numerical decision layer used in the manuscript. Regression and categorization tasks for the studied datasets in the manuscript are performed with these codes written in Python with Tensorflow library and Keras API. Experimentally recorded data is required to run decision layer.
+
+Experimentally recorded data will be available upon peer reviewed publication.
 
 ## Related Work
 [Scalable Optical Learning Operator](https://arxiv.org/abs/2012.12404)
