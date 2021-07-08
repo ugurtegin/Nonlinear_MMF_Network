@@ -1,0 +1,10 @@
+
+File Description:
+
+res_sq_fltX.mat - contains the measured beam profile for the experiment. The beam profiles (2D data) are centered, downsampled according to Abbe diffraction limit, flattened (1D) and MATLAB’s default ‘normalized’ function.
+
+label.mat - contains normalized label values for learning and testing 
+
+Usage:
+
+Use the shared notebooks containing the example code in Experiments folder
