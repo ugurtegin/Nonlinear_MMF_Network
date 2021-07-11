@@ -46,6 +46,9 @@ Tensorflow 2.4.0
 
 Python 3
 
+## DOI & Zenodo
+https://doi.org/10.5281/zenodo.5090719
+
 ## Contact
 Please contact [Uğur Teğin](http://www.ugurtegin.com/) for questions.
 
