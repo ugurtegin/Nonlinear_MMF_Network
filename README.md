@@ -12,6 +12,15 @@ Code/Experiments folder contains the numerical decision layer used in the manusc
 ## Data
 Data folder contains the experimentally recorded, downsampled, flattenned and normalized fiber output patterns and data labels for machine learning taks.
 
+## How to:
+
+Use the shared notebooks containing the example code in Experiments folder
+
+* To obtain Figure 2 in the figure, please run the corresponding code under Code/Experiments directory with Sinc.zip file.
+* To obtain Figure 3 in the figure, please run the corresponding code under Code/Experiments directory with Abalone.zip, Face.zip, Audio Digit.zip and Audio Speaker.zip files.
+* To obtain Figure 4 in the figure, please run the corresponding code under Code/Experiments directory with Covid-19.zip file.
+* To obtain Figure 6 in the figure, please run the corresponding code under Code/Simulations directory.
+
 ## Related Work
 [Scalable Optical Learning Operator](https://arxiv.org/abs/2012.12404)
 
