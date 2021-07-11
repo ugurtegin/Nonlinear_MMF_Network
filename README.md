@@ -6,7 +6,7 @@ Simulations folder contains a time-dependent beam propagation simulation for gra
 
 Experiments folder contains the numerical decision layer used in the manuscript. Regression and categorization tasks for the studied datasets in the manuscript are performed with these codes written in Python with Tensorflow library and Keras API. Experimentally recorded data is required to run the decision layer code.
 
-Experimentally recorded data will be available upon peer reviewed publication.
+Experimental Data folder contains the experimentally recorded, downsampled, flattenned and normalized fiber output patterns and data labels for machine learning taks.
 
 In the experiments, SLM control is performed with the Matlab Code provided by Rosales-Guzmán, C., & Forbes, A. (2017). How to shape light with spatial light modulators. SPIE Press and the camera control is obtained via Thorlabs SDK and Doc. for Scientific Cameras example code. 
 
@@ -36,7 +36,7 @@ Tensorflow 2.4.0
 Python 3
 
 ## Contact
-Please contact [Uğur Teğin](http://ugurtegin.github.io) for questions.
+Please contact [Uğur Teğin](http://www.ugurtegin.com/) for questions.
 
 ## License
 This project is covered under the Creative Common (CC BY NC) License. The data and code are avaiable for non-commercial research purposes only with proper citation to aforementioned manuscript.
