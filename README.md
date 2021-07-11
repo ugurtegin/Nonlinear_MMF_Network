@@ -1,14 +1,16 @@
 # Scalable Optical Learning Operator 
 
-This repository contains code used for the manuscript title as Scalable Optical Learning Operator by Tegin et al. (2020). https://arxiv.org/abs/2012.12404
-
-Simulations folder contains a time-dependent beam propagation simulation for graded-index multimode fiber. The code is written in Python with the CuPy library to perform GPU parallelized simulations. 
-
-Experiments folder contains the numerical decision layer used in the manuscript. Regression and categorization tasks for the studied datasets in the manuscript are performed with these codes written in Python with Tensorflow library and Keras API. Experimentally recorded data is required to run the decision layer code.
-
-Experimental Data folder contains the experimentally recorded, downsampled, flattenned and normalized fiber output patterns and data labels for machine learning taks.
+This repository contains code used for the manuscript title as Scalable Optical Learning Operator by Tegin et al. (2020). https://arxiv.org/abs/2012.12404 
 
 In the experiments, SLM control is performed with the Matlab Code provided by Rosales-Guzmán, C., & Forbes, A. (2017). How to shape light with spatial light modulators. SPIE Press and the camera control is obtained via Thorlabs SDK and Doc. for Scientific Cameras example code. 
+
+## Code
+Code/Simulations folder contains a time-dependent beam propagation simulation for graded-index multimode fiber. The code is written in Python with the CuPy library to perform GPU parallelized simulations. 
+
+Code/Experiments folder contains the numerical decision layer used in the manuscript. Regression and categorization tasks for the studied datasets in the manuscript are performed with these codes written in Python with Tensorflow library and Keras API. Experimentally recorded data is required to run the decision layer code.
+
+## Data
+Data folder contains the experimentally recorded, downsampled, flattenned and normalized fiber output patterns and data labels for machine learning taks.
 
 ## Related Work
 [Scalable Optical Learning Operator](https://arxiv.org/abs/2012.12404)
