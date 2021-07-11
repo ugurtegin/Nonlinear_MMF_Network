@@ -14,7 +14,7 @@ Data folder contains the experimentally recorded, downsampled, flattenned and no
 
 ## How to:
 
-Use the shared notebooks containing the example code in Experiments folder
+Use the shared notebooks containing the example code in Code/Experiments folder
 
 * To obtain Figure 2 in the figure, please run the corresponding code under Code/Experiments directory with Sinc.zip file.
 * To obtain Figure 3 in the figure, please run the corresponding code under Code/Experiments directory with Abalone.zip, Face.zip, Audio Digit.zip and Audio Speaker.zip files.
