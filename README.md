@@ -22,18 +22,20 @@ Use the shared notebooks containing the example code in Code/Experiments folder
 * To obtain Figure 6 in the figure, please run the corresponding code under Code/Simulations directory.
 
 ## Related Work
-[Scalable Optical Learning Operator](https://arxiv.org/abs/2012.12404)
+[Scalable Optical Learning Operator](https://www.nature.com/articles/s43588-021-00112-0)
 
-Uğur Teğin, Mustafa Yıldırım, İlker Oğuz, Christophe Moser, and Demetri Psaltis 2020. Scalable Optical Learning Operator. arXiv.
+Teğin, U., Yıldırım, M., Oğuz, İ., Moser, C., & Psaltis, D. (2021). Scalable optical learning operator. Nature Computational Science, 1(8), 542-549.	
 
 ```
-@article{teğin2020scalable,
-      title={Scalable Optical Learning Operator}, 
-      author={Uğur Teğin and Mustafa Yıldırım and İlker Oğuz and Christophe Moser and Demetri Psaltis},
-      year={2020},
-      eprint={2012.12404},
-      journal={arXiv},
-      primaryClass={physics.optics}
+@article{teugin2021scalable,
+  title={Scalable optical learning operator},
+  author={Te{\u{g}}in, U{\u{g}}ur and Y{\i}ld{\i}r{\i}m, Mustafa and O{\u{g}}uz, {\.I}lker and Moser, Christophe and Psaltis, Demetri},
+  journal={Nature Computational Science},
+  volume={1},
+  number={8},
+  pages={542--549},
+  year={2021},
+  publisher={Nature Publishing Group}
 }
 ```
 
