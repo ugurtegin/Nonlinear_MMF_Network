@@ -1,6 +1,6 @@
 # Scalable Optical Learning Operator 
 
-This repository contains code used for the manuscript title as Scalable Optical Learning Operator by Tegin et al. (2020). https://arxiv.org/abs/2012.12404 
+This repository contains code used for the manuscript title as Scalable Optical Learning Operator by Tegin et al. (2020).https://www.nature.com/articles/s43588-021-00112-0 and https://arxiv.org/abs/2012.12404 
 
 In the experiments, SLM control is performed with the Matlab Code provided by Rosales-Guzmán, C., & Forbes, A. (2017). How to shape light with spatial light modulators. SPIE Press and the camera control is obtained via Thorlabs SDK and Doc. for Scientific Cameras example code. 
 
